@@ -14,7 +14,7 @@
   If you want to close the modal, there's no problem at all. You can either click the close button, click outside the modal or press your Esc key! Great, right?
 </p>
 
-<p>I could learn a lot about class manipulation with this project!</p>
+<p>I learned a lot about class manipulation, click and keypress events with this project!</p>
 
 <h2>Final Result:</h2>
 
